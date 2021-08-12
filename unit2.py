@@ -46,6 +46,25 @@ nam_sinh = int(input()) #Sẽ chuyển nam_sinh là số nguyên(int) cho cả c
 nam_sinh = int(nam_sinh) #Cách này sẽ đổi một kiểu string sang kiểu integer(số nguyên)
 #Giải thích: Nghĩa là sẽ đổi vế bên phải thành kiểu integer và gán vào biến nam_sinh
 
+#CHƯƠNG TRÌNH HOÀN CHỈNH TRONG BÀI HỌC
+
+CURRENT_YEAR = 2021 
+ 
+print("Nhập họ của bạn: ")
+lastname = input()
+
+print("Nhập tên của bạn:")
+firstname = input()
+
+print("Họ và tên của bạn:" + lastname + " " + firstname)
+
+print("Nhập năm sinh của bạn: ")
+nam_sinh = input()
+
+age = CURRENT_YEAR - int(nam_sinh) 
+
+print("Tuổi của bạn là: " + str(age) + " vào năm " + "" + str(CURRENT_YEAR))
+
 #Tiếng anh trong bài học :
 #concatenate : Nối 
 #String concatenation : Nối string lại với nhau
