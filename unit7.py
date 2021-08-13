@@ -60,7 +60,6 @@ print("Chiều cao của {0} là: ".format(firstname) + str(height_feet) + " fee
 CURRENT_YEAR = 2021 
 METER_TO_FEET = 3.281
 is_male = None
-is_malec = None
 
 lastname = input("Nhập họ của bạn: ")
 firstname = input("Nhập tên của bạn: ")
@@ -103,7 +102,7 @@ else:
 #=============================================================
 
 print("\n--------------")
-print("Họ và tên của bạn:" + lastname + " " + firstname)
+print("Họ và tên của bạn là: {0} {1}".format(lastname,firstname))
 print("Tuổi của {2} là: {0} vào năm {1}".format(age,CURRENT_YEAR,firstname))
 print(is_male)
 print("Chiều cao của {0} là: ".format(firstname) + str(height_feet) + " feet")
