@@ -1,0 +1,49 @@
+https://github.com/hadesvnAL/smarthouse/blob/main/laika.py
+
+https://phocode.com/category/python/tkinter/
+
+http://api.openweathermap.org/data/2.5/weather?
+
+https://pypi.org/project/pyowm/
+
+https://www.youtube.com/watch?v=wjig5CMbuV8
+
+https://github.com/mabuw/Study-python
+
+https://drive.google.com/file/d/0B-hTIM3aG_oJWnpxdGtXV2Z2YlE/view?usp=sharing&resourcekey=0-1m1M1q0tjXiGBlOBaMAhUw
+
+https://4r-mgo.123.st/t175-topic
+
+https://vi.wikipedia.org/wiki/Python_(ng%C3%B4n_ng%E1%BB%AF_l%E1%BA%ADp_tr%C3%ACnh)
+
+https://drive.google.com/file/d/1g071-KrzKc1e2xigLHHFgWxPnBzO4CVY/view?usp=sharing
+
+https://tinhte.vn/thread/dai-hoc-fpt-khi-sinh-vien-gian-lan-va-hack-vao-server-truong.1091706/
+
+https://www.w3schools.com/python/python_reference.asp
+
+https://voz.vn/t/moi-trai-nghiem-300-bai-code-thieu-nhi-ban-real.250724/
+
+https://voz.vn/t/blockchain-ban-ve-nft-game.357075/
+
+https://laptrinh-online.vn/
+
+https://voz.vn/f/lap-trinh-cntt.91/page-6
+
+https://leetcode.com/
+
+API WEATHER : d9925238d94114fea7d21024a7a67c2f   , 
+fe8d8c65cf345889139d8e545f57819a
+
+pypi.org thay lib audioplayer
+
+GIT: git push origin master --force
+
+git commit -m "first commit"
+
+
+web trường : 57819a
+
+Phím tắt : Bôi đen + Ctrl + D là để đổi các từ trùng trong code
+
+https://freetuts.net/bai-tap-tao-ham-trong-python-3456.html
